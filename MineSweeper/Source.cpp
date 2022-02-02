@@ -1,5 +1,3 @@
-// Optimize game later tomorrow
-
 #include <iostream>
 #include <vector>
 #include <string>
@@ -14,7 +12,7 @@
 bool window_Fullscreen = false;
 bool window_Redraw = true;
 std::vector<std::vector<int>> window_Ratio = { {16, 9} };
-std::string window_Version = "V0.1.0";
+std::string window_Version = "V1.1.0";
 
 int window_Size = 75;
 int window_Type = 0;
@@ -1032,6 +1030,10 @@ void setWindow(sf::RenderWindow &window) {
 		window.create(sf::VideoMode(window_Width, window_Height), "MineSweeper " + window_Version, sf::Style::Close);
 
 	}
+
+	sf::Image icon;
+	icon.loadFromFile("Style/Icon/Icon.jpg");
+	window.setIcon(icon.getSize().x, icon.getSize().y, icon.getPixelsPtr());
 
 	window_Scale = (float) size / 75;
 

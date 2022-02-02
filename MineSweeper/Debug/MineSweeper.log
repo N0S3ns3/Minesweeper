@@ -1,1 +1,33 @@
-﻿  MineSweeper.vcxproj -> C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\MineSweeper\Debug\MineSweeper.exe
+﻿  Source.cpp
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(49,95): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(49,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(54,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(78,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(117,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(117,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(868,63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1015,49): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1020,45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1020,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1025,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1030,45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1030,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1042,5): warning C4007: 'WinMain': must be '__stdcall'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\Debug\MineSweeper.exe : fatal error LNK1120: 1 unresolved externals
