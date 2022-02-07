@@ -8,7 +8,7 @@ Project uses MIT license.
 ## Libraries and notes
 This project is using library: SFML
 
-This project is using Font: DIGITAL-7 version 1.02
+This project is using Font: DIGITAL-7 version 1.02 (Sizenko Alexander)
 
 ## Controls
 | Key  | Event |
