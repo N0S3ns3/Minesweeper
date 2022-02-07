@@ -6,8 +6,9 @@ My game has been developed since 01.29.2022 and major code has been finished at 
 Project uses MIT license.
 
 ## Libraries and notes
-This project is using library: SFML.
-This project is using Font: DIGITAL-7 version 1.02.
+This project is using library: SFML
+
+This project is using Font: DIGITAL-7 version 1.02
 
 ## Controls
 | Key  | Event |
