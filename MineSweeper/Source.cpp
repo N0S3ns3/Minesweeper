@@ -945,7 +945,7 @@ private:
 	int flag;
 	int gameTime = 0;
 	int Lvl = 0; // [0 - Easy] [1 - Medium] [2 - Hard] [3 - Brave] [4 - I warned you] [5 - GetLost];
-	int LvlSize[6][2] = { {10, 10}, {18, 35}, {28, 100}, {35, 160}, {50, 330}, {80, 999} };
+	int LvlSize[6][2] = { {10, 10}, {18, 35}, {28, 130}, {35, 210}, {50, 350}, {80, 999} };
 	
 	const int COVERED = 0, UNCOVERED = 1, FLAGGED = 2; // For tileCover
 
