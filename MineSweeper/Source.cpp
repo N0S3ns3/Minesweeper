@@ -290,6 +290,7 @@ public:
 		}
 
 		gameState = true;
+		timer = false;
 		gameTime = 0;
 
 		flag = boardBomb;
@@ -1034,6 +1035,7 @@ void setWindow(sf::RenderWindow &window) {
 	sf::Image icon;
 	icon.loadFromFile("Style/Icon/Icon.jpg");
 	window.setIcon(icon.getSize().x, icon.getSize().y, icon.getPixelsPtr());
+	window.setFramerateLimit(60);
 
 	window_Scale = (float) size / 75;
 
@@ -1078,12 +1080,12 @@ int main() {
 					window_Redraw = true;
 
 				}
-				if (KEY_R) {
+				if (KEY_C) {
 
 					window.close();
 
 				}
-				if (KEY_S) {
+				if (KEY_R) {
 
 					MS.restart();
 					window_Redraw = true;

@@ -21,16 +21,16 @@ C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\Mine
           [
               T=float
           ]
-C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(868,63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1015,49): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
-C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1020,45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1020,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1025,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1030,45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1030,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(869,63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1016,49): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1021,45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1021,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1026,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1031,45): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\MineSweeper\Source.cpp(1031,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
   Generating code
-  1 of 252 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+  5 of 252 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   MineSweeper.vcxproj -> C:\Users\mikna\Desktop\IT\Programming\C++ Journey\Projects\Game\MineSweeper\Release\MineSweeper.exe

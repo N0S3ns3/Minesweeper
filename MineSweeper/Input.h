@@ -10,6 +10,7 @@
 #define KEY_M sf::Keyboard::isKeyPressed(sf::Keyboard::M)
 #define KEY_R sf::Keyboard::isKeyPressed(sf::Keyboard::R)
 #define KEY_S sf::Keyboard::isKeyPressed(sf::Keyboard::S)
+#define KEY_C sf::Keyboard::isKeyPressed(sf::Keyboard::C)
 
 // Mouse
 #define BTN_LEFT sf::Mouse::isButtonPressed(sf::Mouse::Left)
