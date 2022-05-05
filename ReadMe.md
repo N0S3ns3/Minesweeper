@@ -14,9 +14,9 @@ This project is using Font: DIGITAL-7 version 1.02 (Sizenko Alexander)
 ## Controls
 | Key  | Event |
 | ------------- | ------------- |
-| R | Exit |
+| C | Exit |
 | Space | Toggle fullscreen |
-| S | Restart |
+| R | Restart |
 | M | Mute Sound/ Music|
 | LMB | Uncover/ Press |
 | RMB | Flag |
